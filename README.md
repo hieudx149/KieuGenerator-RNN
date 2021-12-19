@@ -1,4 +1,4 @@
-# PoemKieu_RNN
+# KieuGenerator
 Poem generation base Kieu story - Nguyen Du
 
 Mô hình sinh thơ tiếng việt dựa trên truyện kiều của Nguyễn Du <br>
