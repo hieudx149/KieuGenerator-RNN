@@ -1,4 +1,4 @@
-# KieuGenerator
+# Kieu Generator
 Poem generation base Kieu story - Nguyen Du
 
 Mô hình sinh thơ tiếng việt dựa trên truyện kiều của Nguyễn Du <br>
